@@ -78,7 +78,7 @@ User
 (User now has job ID)
 
 |
-    v
+v
 
 Step 2: AI or file analysis runs in background (Asynchronous)
 -------------------------------------------------------------
